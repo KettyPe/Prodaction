@@ -7,7 +7,7 @@ $(function () {
         dots: true,
         loop: true,
         autoplay: true,
-        speed: 300,
+        autoplaySpeed: 2000,
         responsive: [
             {
                 breakpoint: 1175,
